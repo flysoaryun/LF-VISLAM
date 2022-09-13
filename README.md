@@ -9,7 +9,7 @@
 If you find this work useful, please consider referencing the following paper:
 
 **Attitude-Guided Loop Closure for Cameras with Negative Plane.**
-Z. Wang, K. Yang, P. Li, F. Gao, K. Wang.
+Z. Wang, [K. Yang](https://yangkailun.com/), [P. Li](https://person.zju.edu.cn/lipeng), [F. Gao](http://zju-fast.com/fei-gao/), [K. Wang](http://wangkaiwei.org/).
 arXiv preprint arXiv:2209.05167, 2022.
 [[**PDF**](https://arxiv.org/pdf/2209.05167.pdf)]
 
