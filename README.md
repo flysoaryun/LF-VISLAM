@@ -1,7 +1,7 @@
 # LF-VIO-Loop
 
 
-### [Attitude-Guided Loop Closure for Cameras with Negative Plane](https://arxiv.org/pdf/2209.05167.pdf)
+### Attitude-Guided Loop Closure for Cameras with Negative Plane [[PDF]](https://arxiv.org/pdf/2209.05167.pdf)
 
 Ze Wang, [Kailun Yang](https://yangkailun.com/), [Peng Li](https://person.zju.edu.cn/en/lipeng), [Fei Gao](http://zju-fast.com/fei-gao/), [Kaiwei Wang](http://wangkaiwei.org/indexeg.html).
 
