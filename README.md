@@ -1,4 +1,4 @@
-# LF-VIO-Loop
+# LF-SLAM
 
 
 ### Attitude-Guided Loop Closure for Cameras with Negative Plane [[PDF]](https://arxiv.org/pdf/2209.05167.pdf)
