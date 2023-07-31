@@ -8,6 +8,20 @@ The Loop closure of LF-VISLAM will also be updated later.
 
 If you find this work useful or interesting, please kindly give us a star :star:, **thanks!**:grinning:
 
+
+## Ourdoor test
+
+
+
+https://github.com/flysoaryun/LF-VISLAM/assets/36565779/0be4363b-0220-4994-ad51-21c6fbce58ce
+
+**Green:** LF-VIO
+
+**Blue:** LF-VISLAM
+
+**Red:** Groundtruth
+
+
 ## Download PALVIO Dataset
 
 ![picture](https://user-images.githubusercontent.com/36565779/219860393-943833dd-c83d-4ea8-b23c-7bf0fd171a47.png)
