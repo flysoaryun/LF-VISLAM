@@ -13,7 +13,9 @@ If you find this work useful or interesting, please kindly give us a star :star:
 
 
 
-https://github.com/flysoaryun/LF-VISLAM/assets/36565779/0be4363b-0220-4994-ad51-21c6fbce58ce
+https://github.com/flysoaryun/LF-VISLAM/assets/36565779/b5de8840-fdb1-4082-a48e-bf87c6f4fc86
+
+
 
 **Green:** LF-VIO
 
