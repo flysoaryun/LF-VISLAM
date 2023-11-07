@@ -126,6 +126,7 @@ extrinsicTranslation: !!opencv-matrix
 If you find this work useful, please consider referencing the following paper:
 
 **LF-VISLAM: A SLAM Framework for Large Field-of-View Cameras With Negative Imaging Plane on Mobile Agents**
+
 Z. Wang, K. Yang, H. Shi, P. Li, F. Gao, J. Bai, K. Wang.
 
 ```
