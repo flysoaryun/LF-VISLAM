@@ -125,14 +125,15 @@ extrinsicTranslation: !!opencv-matrix
 ## Publication
 If you find this work useful, please consider referencing the following paper:
 
-**LF-SLAM: A SLAM Framework for Large Field-of-View Cameras with Negative Imaging Plane on Mobile Agents.**
+**LF-VISLAM: A SLAM Framework for Large Field-of-View Cameras With Negative Imaging Plane on Mobile Agents**
 Z. Wang, K. Yang, H. Shi, P. Li, F. Gao, J. Bai, K. Wang.
 
 ```
-@article{LF-SLAM,
-  title={LF-SLAM: A SLAM Framework for Large Field-of-View Cameras with Negative Imaging Plane on Mobile Agents},
+@article{LF-VISLAM,
+  title={LF-VISLAM: A SLAM Framework for Large Field-of-View Cameras With Negative Imaging Plane on Mobile Agents},
   author={Wang, Ze and Yang, Kailun and Shi, Hao and Li, Peng and Gao, Fei and Bai, Jian and Wang, Kaiwei},
-  journal={arXiv preprint arXiv:2209.05167},
-  year={2022}
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2023},
+  publisher={IEEE}
 }
 ```
