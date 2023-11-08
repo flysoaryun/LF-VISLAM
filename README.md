@@ -8,7 +8,7 @@ The Loop closure of LF-VISLAM will also be updated later.
 
 If you find this work useful or interesting, please kindly give us a star :star:, **thanks!**:grinning:
 
-## How to run LF-VIO
+## How to run LF-VISLAM
 1、Build LF-VIO on ROS
 Clone the repository and catkin_make:
 ```
