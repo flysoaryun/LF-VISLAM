@@ -145,6 +145,8 @@ If you find this work useful, please consider referencing the following paper:
 
 Z. Wang, K. Yang, H. Shi, P. Li, F. Gao, J. Bai, K. Wang.
 
+IEEE Transactions on Automation Science and Engineering (T-ASE).
+
 ```
 @article{LF-VISLAM,
   title={LF-VISLAM: A SLAM Framework for Large Field-of-View Cameras With Negative Imaging Plane on Mobile Agents},
