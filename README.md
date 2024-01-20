@@ -1,4 +1,4 @@
-### LF-VISLAM: A SLAM Framework for Large Field-of-View Cameras with Negative Imaging Plane on Mobile Agents [[PDF]](https://arxiv.org/pdf/2209.05167.pdf)
+### LF-VISLAM: A SLAM Framework for Large Field-of-View Cameras with Negative Imaging Plane on Mobile Agents [[PDF]](https://arxiv.org/pdf/2209.05167.pdf), IEEE Transactions on Automation Science and Engineering (T-ASE)
 Ze Wang, [Kailun Yang](https://yangkailun.com/), Hao Shi, [Peng Li](https://person.zju.edu.cn/en/lipeng), [Fei Gao](http://zju-fast.com/fei-gao/), [Jian Bai](https://person.zju.edu.cn/en/baijian), [Kaiwei Wang](http://wangkaiwei.org/indexeg.html).
 
 ## Wiki 
